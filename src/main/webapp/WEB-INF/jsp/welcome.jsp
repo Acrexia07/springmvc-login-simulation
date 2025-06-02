@@ -8,7 +8,6 @@
 		<section>
 			User Credentials:<br>
 			Name: ${name}<br>
-			Password: ${password}<br>
 		</section>
 	</body>
 </html>
